@@ -1,0 +1,9 @@
+{
+  "id": "encryption_keys",
+  "aescbc": [
+    {
+      "name": "key1",
+      "secret": "baiBu8ais4bu3uRohqu6och5yai4wai8"
+    }
+  ]
+}
